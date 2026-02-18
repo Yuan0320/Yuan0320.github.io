@@ -1,35 +1,40 @@
 ﻿---
 permalink: /
 title: "About Me 🧑‍💻"
-seo_title: "Jinjie Yuan's Homepage @ Intel"
+seo_title: "Jinjie Yuan's Homepage"
 author_profile: true
 redirect_from: 
     - /about/
     - /about.html
 ---
 
-
-I am an engineer and researcher at **Intel** 🏢. I joined Intel as an intern in 2022 and became a full-time employee in 2023. My research and work primarily focus on **AI model optimization** 🤖, including model compression (pruning, sparsity, quantization), inference acceleration ⚡, and lightweight deployment. I am dedicated to making large language models (LLMs) smaller, faster, and more efficient for deployment in resource-constrained environments such as edge devices 📱.
-
-
-🎓 I received my M.S. degree in Computer Science and Technology from **Guangdong University of Technology** in 2023, supervised by Prof. [Ruichu Cai](https://ruichucai.github.io). Prior to that, I obtained my B.S. degree in Software Engineering from the same university in 2020, and was recommended for direct admission to the master's program.
-
-
-Current Work 🚀
-======
-My recent work focuses on **Hybrid Inference for Agentic AI** 🧠. I am exploring the integration of prefix caching mechanisms with CPU offloading architectures to optimize agentic workloads. These workloads often involve long instructions, few-shot examples, and iterative reasoning. By leveraging CPU resources for computation and KV cache storage, we aim to significantly enhance inference throughput and efficiency for LLM inference.
-
+AI engineer and researcher at **Intel** 🏢 for 2+ years. My work primarily focus on **LLM inference optimization**⚡and **efficient AI** 🤖, including model compression (pruning, sparsity, quantization), inference acceleration, and efficient hybrid GPU-CPU engine for Agentic AI. My work bridges the gap between high-level algorithmic research and low-level system efficiency.
 
 Research Interests 🚩
 ======
-- Natural language processing (NLP) & large language models (LLM)
-- Agentic AI & efficient inference/deployment 
-- Model compression & optimization (pruning, sparsity, quantization)
-- Low-rank & adapter methods
+- Natural language processing (NLP), large language models (LLM).
+- LLM inference optimization, model compression (pruning, sparsity, and quantization), neural architecture search (NAS).
+- LLM fine-tuning, parameter-efficient fine-tuning (PEFT), LoRA.
+- LLM serving engine, hybrid GPU-CPU inference.
+- Agentic AI, KV-cache management, agent memory management, retrieval-augmented generation (RAG), test-time compute.
 
+I am always open to discussions and potential collaborations. Please feel free to reach out! 🤝
 
-💬 I am always open to discussions and potential collaborations. Please feel free to reach out to me!
+Experience 💼
+======
+*   **System Software Development Engineer @ Intel**
+    <br>_Jul. 2023 - Mar. 2026 (2 yrs 9 mos)_ · Beijing, China
 
+*   **System Software Development Engineer (Intern) @ Intel**
+    <br>_May 2022 - Jun. 2023 (1 yr 2 mos)_ · Beijing, China
+
+*   **M.S. in Computer Science and Technology @ Guangdong University of Technology**
+    <br>_Sep. 2020 - Jun. 2023_ · Guangzhou, China
+    <br>_Recommended for Admission without Examination_
+    <br>_Prof. [Ruichu Cai](https://ruichucai.github.io) @ [DMIR Lab](https://dmir.gdut.edu.cn) - NLP, Text-to-SQL_
+
+*   **B.S. in Software Engineering @ Guangdong University of Technology**
+    <br>_Sep. 2016 - Jun. 2020_ · Guangzhou, China
 
 Selected Publications 📚
 ======
@@ -37,11 +42,11 @@ For a full list, please refer to my [Google Scholar](https://scholar.google.com/
 
 
 *   **RTTC: Reward-Guided Collaborative Test-Time Compute**
-    <br>J. Pablo Muñoz\*, **Jinjie Yuan**\* (Co-first Author)
+    <br>J. Pablo Muñoz\*, **Jinjie Yuan**\* (Co-first author)
     <br>_EMNLP 2025 Findings_ · [Paper](https://arxiv.org/abs/2508.10024)
 
 *   **Mamba-Shedder: Post-Transformer Compression for Efficient Selective Structured State Space Models**
-    <br>J. Pablo Muñoz\*, **Jinjie Yuan**\* (Co-first Author), Nilesh Jain
+    <br>J. Pablo Muñoz\*, **Jinjie Yuan**\* (Co-first author), Nilesh Jain
     <br>_NAACL 2025 (Oral)_ · [Paper](https://arxiv.org/abs/2501.17088) · [Code](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning)
 
 *   **Low-Rank Adapters Meet Neural Architecture Search for LLM Compression**
@@ -49,19 +54,19 @@ For a full list, please refer to my [Google Scholar](https://scholar.google.com/
     <br>_AAAI 2025 Workshop on Connecting Low-rank Representations in AI_ · [Paper](https://arxiv.org/abs/2501.16372)
 
 *   **SQFT: Low-cost Model Adaptation in Low-precision Sparse Foundation Models**
-    <br>J. Pablo Muñoz\*, **Jinjie Yuan**\* (Co-first Author), Nilesh Jain
+    <br>J. Pablo Muñoz\*, **Jinjie Yuan**\* (Co-first author), Nilesh Jain
     <br>_EMNLP 2024 Findings_ · [Paper](https://arxiv.org/abs/2410.03750) · [Code](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning)
 
 *   **Shears: Unstructured Sparsity with Neural Low-rank Adapter Search**
-    <br>J. Pablo Muñoz\*, **Jinjie Yuan**\* (Co-first Author), Nilesh Jain
+    <br>J. Pablo Muñoz\*, **Jinjie Yuan**\* (Co-first author), Nilesh Jain
     <br>_NAACL 2024_ · [Paper](https://arxiv.org/abs/2404.10934) · [Code](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning)
 
 *   **LoNAS: Elastic Low-rank Adapters for Efficient Large Language Models**
-    <br>J. Pablo Muñoz\*, **Jinjie Yuan**\* (Co-first Author), Yi Zheng, Nilesh Jain
+    <br>J. Pablo Muñoz\*, **Jinjie Yuan**\* (Co-first author), Yi Zheng, Nilesh Jain
     <br>_LREC-COLING 2024_ · [Paper](https://aclanthology.org/2024.lrec-main.940/) · [Code](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning)
 
 *   **SADGA: Structure-Aware Dual Graph Aggregation Network for Text-to-SQL**
-    <br>Ruichu Cai, **Jinjie Yuan** (Advisor 1st, Student 2nd), et al.
+    <br>Ruichu Cai, **Jinjie Yuan** (First student author), Boyan Xu, Zhifeng Hao
     <br>_NeurIPS 2021_ · [Paper](https://arxiv.org/abs/2111.00653) · [Code](https://github.com/DMIRLAB-Group/SADGA)
 
 

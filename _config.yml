@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Jinjie Yuan 袁锦杰"
-description              : &description "Jinjie Yuan's personal academic website"
-url                      : https://Yuan0320.github.io
+description              : &description "AI Engineer & Researcher (Ex-Intel). Specializing in LLM Inference Optimization."
+url                      : "https://yuan0320.github.io"
 baseurl                  : ""
 repository               : "Yuan0320/Yuan0320.github.io"
 
@@ -25,29 +25,19 @@ author:
   avatar           : "profile.png" # You can upload your profile picture to images/profile.png
   name             : "Jinjie Yuan"
   pronouns         : "he/him"
-  bio              : "Software Development Engineer<br>AI Researcher"
-  location         : "Beijing, China"
-  employer         : "Intel"
-  uri              : 
-  email            : "jinjie.yuan@intel.com"
-  email_personal   : "yuanjinjie0320@gmail.com"
-  phone            : "+86-131-4353-2746"
+  bio              : "AI Engineer & Researcher (LLM) | Ex-Intel"
+  location         : "China"
+  employer         : "Open to new opportunities"
+  uri              : "https://yuan0320.github.io"
+  # email            : "jinjie.yuan@intel.com"
+  email   : "yuanjinjie0320@gmail.com"
+  phone            : "(+86) 131-4353-2746"
 
   # Academic websites
   academia         : 
   arxiv            : 
-  googlescholar    : "https://scholar.google.com/citations?user=SsbhgeIAAAAJ&hl=zh-CN&oi=sra"
+  googlescholar    : "https://scholar.google.com/citations?user=SsbhgeIAAAAJ"
   inspire-hep      : 
-  impactstory      : 
-  orcid            : 
-  semantic         : 
-  ssrn             : 
-  pubmed           : 
-  researchgate     : 
-  scopus           : 
-  zotero           : 
-
-
   # Repositories and software development
   bitbucket        : 
   codepen          : 
@@ -67,7 +57,7 @@ author:
   keybase          : 
   instagram        : 
   lastfm           : 
-  linkedin         : 
+  linkedin         : "jinjie-yuan-904390396"
   mastodon         : 
   medium           : 
   pinterest        : 
