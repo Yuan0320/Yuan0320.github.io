@@ -13,7 +13,7 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Jinjie Yuan 袁锦杰"
 description              : &description "AI Engineer & Researcher (Ex-Intel). Specializing in LLM Inference Optimization."
-url                      : "https://yuan0320.github.io"
+# url                      : "https://yuan0320.github.io"
 baseurl                  : ""
 repository               : "Yuan0320/Yuan0320.github.io"
 
