@@ -8,7 +8,7 @@ redirect_from:
     - /about.html
 ---
 
-AI software engineer specializing in **LLM inference optimization**⚡with **over 2 years** of experience at **Intel** 🏢. Core focus areas include: 1) architecting model compression algorithms (sparsity, pruning, quantization) to overcome compute and memory bottlenecks, and 2) designing efficient heterogeneous (GPU-CPU) inference framework and KV-Cache management mechanism for agentic AI workloads. Published **5+ papers** in AI conferences (EMNLP, NAACL, NeurIPS), holding **1 US patent**, with **150+ citations**. Dedicated to delivering lightweight, efficient algorithmic solutions for research and deployment, and bridging the gap between high-level algorithmic research and low-level system efficiency.
+AI software engineer specializing in **LLM inference optimization**⚡with **over 2 years** of experience at **Intel** 🏢. Core focus areas include: 1) architecting model compression algorithms (sparsity, pruning, quantization) to overcome compute and memory bottlenecks, and 2) designing efficient heterogeneous (GPU-CPU) inference framework and KV-cache management mechanism for agentic AI workloads. Published **5+ papers** in AI conferences (EMNLP, NAACL, NeurIPS), holding **1 US patent**, with **150+ citations**. Dedicated to delivering lightweight, efficient algorithmic solutions for research and deployment, and bridging the gap between high-level algorithmic research and low-level system efficiency.
 
 Interests 🚩
 ======
