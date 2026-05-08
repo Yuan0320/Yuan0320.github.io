@@ -8,15 +8,15 @@ redirect_from:
     - /about.html
 ---
 
-AI Software engineer specializing in **LLM inference optimization**⚡with **over 2 years** of experience at **Intel** 🏢. Specializing in: 1) architecting model compression algorithms (sparsity, pruning, quantization) to overcome compute and memory bottlenecks, and 2) designing efficient heterogeneous (GPU-CPU) inference framework and KV-Cache management mechanism for agentic AI workloads. Published **5+ papers** in AI conferences (EMNLP, NAACL, NeurIPS), holding **1 US patent**, with **150+ citations**. Dedicated to delivering lightweight, efficient algorithmic solutions for research and deployment, and bridging the gap between high-level algorithmic research and low-level system efficiency.
+AI software engineer specializing in **LLM inference optimization**⚡with **over 2 years** of experience at **Intel** 🏢. Core focus areas include: 1) architecting model compression algorithms (sparsity, pruning, quantization) to overcome compute and memory bottlenecks, and 2) designing efficient heterogeneous (GPU-CPU) inference framework and KV-Cache management mechanism for agentic AI workloads. Published **5+ papers** in AI conferences (EMNLP, NAACL, NeurIPS), holding **1 US patent**, with **150+ citations**. Dedicated to delivering lightweight, efficient algorithmic solutions for research and deployment, and bridging the gap between high-level algorithmic research and low-level system efficiency.
 
 Interests 🚩
 ======
 - Natural language processing (NLP), large language models (LLM).
 - Model inference acceleration, model compression (sparsity/pruning/quantization), neural architecture search (NAS).
 - LLM fine-tuning, parameter-efficient fine-tuning (PEFT), LoRA.
-- LLM serving engine, heterogeneous inference (GPU-CPU).
-- Agentic AI, KV-cache management and scheduling, agent memory management, retrieval-augmented generation (RAG), test-time compute.
+- LLM serving engine, heterogeneous inference (GPU-CPU), KV-cache management and scheduling, agent memory management, agentic AI.
+- Retrieval-augmented generation (RAG), test-time compute.
 
 I am always open to discussions and potential collaborations. Please feel free to reach out! 🤝
 
