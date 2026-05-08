@@ -8,15 +8,15 @@ redirect_from:
     - /about.html
 ---
 
-AI engineer and researcher at **Intel** 🏢 for 2+ years. My work primarily focus on **LLM inference optimization**⚡and **efficient AI** 🤖, including model compression (pruning, sparsity, quantization), inference acceleration, and efficient hybrid GPU-CPU engine for Agentic AI. My work bridges the gap between high-level algorithmic research and low-level system efficiency.
+AI Software engineer specializing in **LLM inference optimization**⚡with **over 2 years** of experience at **Intel** 🏢. Specializing in: 1) architecting model compression algorithms (sparsity, pruning, quantization) to overcome compute and memory bottlenecks, and 2) designing efficient heterogeneous (GPU-CPU) inference framework and KV-Cache management mechanism for agentic AI workloads. Published **5+ papers** in AI conferences (EMNLP, NAACL, NeurIPS), holding **1 US patent**, with **150+ citations**. Dedicated to delivering lightweight, efficient algorithmic solutions for research and deployment, and bridging the gap between high-level algorithmic research and low-level system efficiency.
 
-Research Interests 🚩
+Interests 🚩
 ======
 - Natural language processing (NLP), large language models (LLM).
-- LLM inference optimization, model compression (pruning, sparsity, and quantization), neural architecture search (NAS).
+- Model inference acceleration, model compression (sparsity/pruning/quantization), neural architecture search (NAS).
 - LLM fine-tuning, parameter-efficient fine-tuning (PEFT), LoRA.
-- LLM serving engine, hybrid GPU-CPU inference.
-- Agentic AI, KV-cache management, agent memory management, retrieval-augmented generation (RAG), test-time compute.
+- LLM serving engine, heterogeneous inference (GPU-CPU).
+- Agentic AI, KV-cache management and scheduling, agent memory management, retrieval-augmented generation (RAG), test-time compute.
 
 I am always open to discussions and potential collaborations. Please feel free to reach out! 🤝
 
@@ -31,7 +31,7 @@ Experience 💼
 *   **M.S. in Computer Science and Technology @ Guangdong University of Technology**
     <br>_Sep. 2020 - Jun. 2023_ · Guangzhou, China
     <br>_Recommended for Admission without Examination_
-    <br>_Prof. [Ruichu Cai](https://ruichucai.github.io) @ [DMIR Lab](https://dmir.gdut.edu.cn) - NLP, Text-to-SQL_
+    <br>_Prof. [Ruichu Cai](https://ruichucai.github.io) @ [DMIR Lab](https://dmir.gdut.edu.cn)
 
 *   **B.S. in Software Engineering @ Guangdong University of Technology**
     <br>_Sep. 2016 - Jun. 2020_ · Guangzhou, China
@@ -51,7 +51,7 @@ For a full list, please refer to my [Google Scholar](https://scholar.google.com/
 
 *   **Low-Rank Adapters Meet Neural Architecture Search for LLM Compression**
     <br>J. Pablo Muñoz, **Jinjie Yuan**, Nilesh Jain
-    <br>_AAAI 2025 Workshop on Connecting Low-rank Representations in AI_ · [Paper](https://arxiv.org/abs/2501.16372)
+    <br>_AAAI 2025 Workshop_ · [Paper](https://arxiv.org/abs/2501.16372)
 
 *   **SQFT: Low-cost Model Adaptation in Low-precision Sparse Foundation Models**
     <br>J. Pablo Muñoz\*, **Jinjie Yuan**\* (Co-first author), Nilesh Jain
